@@ -34,6 +34,8 @@
 
 ## 效果如下
 
+![](https://github.com/Garment-Lee/TitleHeadRecyclerView/raw/master/img/headtitlerecyclerview.gif)  
+
 
 ## 用法
 
